@@ -30,9 +30,9 @@ Install the dependencies:
 
 ```
 {
-		"url": "xyz",
-		"username": "xyz",
-		"decrypted_password": "xyz"
+	"url": "xyz",
+	"username": "xyz",
+	"decrypted_password": "xyz"
 },
 ```
 
