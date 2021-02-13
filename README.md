@@ -42,4 +42,4 @@ Install the dependencies:
 
 ## Warning:
 
-You should only use this app for educational purposes only as I am not responsible for any damage caused by this script
+   You should only use this script for educational purposes only as I am not responsible for any damage caused by this script
