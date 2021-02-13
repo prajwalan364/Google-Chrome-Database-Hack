@@ -2,7 +2,9 @@
 
 Just a simple python script that automatically extract the chrome autofill saved passwords, history and saved bookmarks from the chrome folder and saves in a JSON file.
 
-<b> Note : Only Works on Wndows </b>
+<b> Note : Only Works on Windows </b>
+
+![chrome_1200x630](https://user-images.githubusercontent.com/40541176/107854544-7c76f600-6e42-11eb-9c2d-0c1dce5d7e7d.jpg)
 
 ## Features
 
@@ -30,10 +32,10 @@ Install the dependencies:
 
 ```
 {
-	"url": "xyz",
-	"username": "xyz",
-	"decrypted_password": "xyz"
-},
+   "url": "xyz",
+   "username": "xyz",
+   "decrypted_password": "xyz"
+}
 ```
 
 <b> Passwords, History and Bookmarks files are stored in Output Folder</b>
